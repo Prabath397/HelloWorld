@@ -1,9 +1,24 @@
-# Hello World
+# HelloWorld Project (Python)
 
-This is my first GitHub project.  
-It prints "Hello World!" in Python.
+This is my **first GitHub project** 🎉  
+It contains a simple Python program that prints **Hello, World!** to the console.  
 
-## How to run
-1. Open terminal in project folder
-2. Run: `python main.py`
+---
 
+## How to Run
+```bash
+python main.py
+
+
+## Example Run
+
+Hello, World!
+
+## Features
+
+Beginner-friendly project
+Demonstrates basic Python syntax
+First step towards building a GitHub portfolio
+
+## Author
+👨‍💻 Prabath
